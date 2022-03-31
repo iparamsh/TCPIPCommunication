@@ -1,0 +1,13 @@
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\bin\Debug\netcoreapp3.1\TCPIPCommunicationClient.exe
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\bin\Debug\netcoreapp3.1\TCPIPCommunicationClient.deps.json
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\bin\Debug\netcoreapp3.1\TCPIPCommunicationClient.runtimeconfig.json
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\bin\Debug\netcoreapp3.1\TCPIPCommunicationClient.runtimeconfig.dev.json
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\bin\Debug\netcoreapp3.1\TCPIPCommunicationClient.dll
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\bin\Debug\netcoreapp3.1\TCPIPCommunicationClient.pdb
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\obj\Debug\netcoreapp3.1\TCPIPCommunicationClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\obj\Debug\netcoreapp3.1\TCPIPCommunicationClient.AssemblyInfoInputs.cache
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\obj\Debug\netcoreapp3.1\TCPIPCommunicationClient.AssemblyInfo.cs
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\obj\Debug\netcoreapp3.1\TCPIPCommunicationClient.csproj.CoreCompileInputs.cache
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\obj\Debug\netcoreapp3.1\TCPIPCommunicationClient.dll
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\obj\Debug\netcoreapp3.1\TCPIPCommunicationClient.pdb
+C:\Users\illya\source\repos\TCPIPCommunicationClient\TCPIPCommunicationClient\obj\Debug\netcoreapp3.1\TCPIPCommunicationClient.genruntimeconfig.cache
